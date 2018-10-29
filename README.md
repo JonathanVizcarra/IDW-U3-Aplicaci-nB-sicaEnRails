@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+La aplicación presente es creada en Ruby on Rails, se ha publicado dicha aplicación en Heroku, la liga es: https://vast-eyrie-77475.herokuapp.com
 
-Things you may want to cover:
+Algunas caractiristicas y funcionalidades:
 
-* Ruby version
+* Se ha utilizado la versión 2.5.1 de Ruby.
 
-* System dependencies
+* Se ha definido la ruta siguiente: https://vast-eyrie-77475.herokuapp.com/saludo en donde nos muestra la frase "Hola mundo" haciendo uso de erb.
 
-* Configuration
+Inconvenientes:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Al momento de etiquetar la version 1.0 no se ha mostrado al momento de subirlo a origin, se intenta solucionar el inconveniente.
